@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pyhton3 PyScript.py
+python3 PyScript.py
