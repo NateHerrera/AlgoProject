@@ -1,0 +1,17 @@
+## All AI usage was specifically used for pseudocode and further
+## explanations. Nothing was directly copied/used with the exception
+## of some of the base case function implementation from the geeksforgeeks site
+## since what we originally used had weird and unexpected behavior
+## and could not get it to work.
+
+# Assistance with floating point list comparisons
+https://chatgpt.com/share/67ca5935-d9b8-8000-82a4-4a3f3e38dde5
+
+# Assistance with mergeHulls implementation
+https://chatgpt.com/share/67ca6f77-5b54-8000-a8a6-ca389d969237
+
+# Further assistance with mergeHulls and graham scan implementation
+https://chatgpt.com/share/67ca756a-0274-8000-ac19-91a05576718b
+
+# Additional help when really stuck
+https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/
